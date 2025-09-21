@@ -1,3 +1,12 @@
-This is my first readme for the project
-this is my second
-this is my third
+# This is the streamlit chat bot
+
+## Instructions to run
+
+### Install dependencies
+''' bash
+pip install -r requirements.txt
+
+
+### Run Streamlit app
+
+streamlit run streamlit_chatbot.py
